@@ -12,7 +12,7 @@ Project Akhir PPB <br>
 - Firebase Realtime Database (Note) <br>
 
 ## Screenshot
-![LinkedTask](https://user-images.githubusercontent.com/96031557/227712636-3599eac7-22d3-470d-bbbe-34376bca63f6.png)
+![linked](https://user-images.githubusercontent.com/96031557/227985577-4638dec7-57cc-42b4-bd5c-00e9a0950b26.png)
 ![Screenshot 2023-03-19 214428](https://user-images.githubusercontent.com/96031557/226184157-67f86dbd-d41f-47e1-a857-884637513102.png)
 ![Screenshot 2023-03-19 214857](https://user-images.githubusercontent.com/96031557/226184162-cb8b02a8-a27c-4a16-8e1d-df1080ab431b.png)
 ![Screenshot 2023-03-19 214829](https://user-images.githubusercontent.com/96031557/226184170-6dc19b80-e415-41ec-94f8-eac7e4f133b2.png)
